@@ -100,19 +100,19 @@ export function WelcomeBanner() {
   return (
     <Welcome>
       <div>
-        <h1>OXXA.. to Solana Casino</h1>
+        <h1>$OXXA..  Solana Casino</h1>
         <p>
           Simple and decentralized casino on Solana.
         </p>
       </div>
       <Buttons>
-        <button onClick={() => window.open('https://t.me/brrrsol', '_blank')}>
+        <button onClick={() => window.open('https://t.me/oxxaworld', '_blank')}>
           Telegram
         </button>
-        <button onClick={() => window.open('https://x.com/brrrsol_', '_blank')}>
+        <button onClick={() => window.open('https://x.com/oxxaworld', '_blank')}>
           Twitter
         </button>
-        <button onClick={() => window.open('https://brrrsol.xyz', '_blank')}>
+        <button onClick={() => window.open('https://oxxaworld.com', '_blank')}>
           OXXA..
         </button>
       </Buttons>
