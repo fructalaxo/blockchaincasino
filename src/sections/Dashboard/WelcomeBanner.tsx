@@ -100,20 +100,20 @@ export function WelcomeBanner() {
   return (
     <Welcome>
       <div>
-        <h1>$AXXO...  Solana Casino</h1>
+        <h1>$AXXO... Solana Casino</h1>
         <p>
           Simple and decentralized casino on Solana.
         </p>
       </div>
       <Buttons>
-        <button onClick={() => window.open('https://t.me/axxoworld', '_blank')}>
+        <button onClick={() => window.open('https://t.me/axxosol', '_blank')}>
           Telegram
         </button>
         <button onClick={() => window.open('https://x.com/axxoworld', '_blank')}>
           Twitter
         </button>
         <button onClick={() => window.open('https://axxoworld.com', '_blank')}>
-          OXXA..
+          Web
         </button>
       </Buttons>
     </Welcome>
