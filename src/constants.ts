@@ -6,7 +6,7 @@ export const RPC_ENDPOINT = import.meta.env.VITE_RPC_ENDPOINT ?? "https://api.ma
 
 // Change this value to your Solana address
 
-export const PLATFORM_CREATOR_ADDRESS = new PublicKey('V2grJiwjs25iJYqumbHyKo5MTK7SFqZSdmoRaj8QWb9')
+export const PLATFORM_CREATOR_ADDRESS = new PublicKey('23nXePvpVParAALRbExFt7ce3x1trT47i3fvDXdwZMhS')
 
 
 // Appears in ShareModal
