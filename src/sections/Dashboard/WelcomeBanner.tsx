@@ -100,7 +100,7 @@ export function WelcomeBanner() {
   return (
     <Welcome>
       <div>
-        <h1>BRR.. to Solana Casino</h1>
+        <h1>OXXA.. to Solana Casino</h1>
         <p>
           Simple and decentralized casino on Solana.
         </p>
@@ -113,7 +113,7 @@ export function WelcomeBanner() {
           Twitter
         </button>
         <button onClick={() => window.open('https://brrrsol.xyz', '_blank')}>
-          BRR..
+          OXXA..
         </button>
       </Buttons>
     </Welcome>
