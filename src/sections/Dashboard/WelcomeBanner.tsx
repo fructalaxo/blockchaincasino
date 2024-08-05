@@ -106,10 +106,10 @@ export function WelcomeBanner() {
         </p>
       </div>
       <Buttons>
-        <button onClick={() => window.open('https://t.me/axxosol', '_blank')}>
+        <button onClick={() => window.open('https://t.me/axxosolana', '_blank')}>
           Telegram
         </button>
-        <button onClick={() => window.open('https://x.com/axxoworld', '_blank')}>
+        <button onClick={() => window.open('https://x.com/axxsolana', '_blank')}>
           Twitter
         </button>
         <button onClick={() => window.open('https://axxoworld.com', '_blank')}>
